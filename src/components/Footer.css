@@ -1,0 +1,28 @@
+footer.page-footer{
+    background-color: #009688;
+    bottom: 0;
+    color: #fff;
+}
+
+footer.page-footer .footer-copyright {
+    overflow: hidden;
+    color: rgba(255,255,255,0.6);
+    background-color: rgba(0,0,0,0.2);
+}
+footer.page-footer a {
+    color: #fff;
+}
+
+.map-container{
+    position: relative;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a.social-icon { 
+    margin-right: 10px;
+    cursor: pointer;
+}
+.social-svg-icon{
+    fill: #fff !important;
+}
