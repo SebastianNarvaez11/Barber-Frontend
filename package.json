@@ -28,7 +28,9 @@
     "reactstrap": "^8.4.1",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "testcafe": "^1.8.8",
+    "typescript": "^3.9.7"
   },
   "scripts": {
     "start": "react-scripts start",
