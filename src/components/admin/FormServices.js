@@ -102,7 +102,7 @@ export class FormServices extends Component {
           }
 
         </Row>
-        <Button variant="success" type="submit">
+        <Button variant="success" type="submit" id='crear'>
           Crear Servicio
         </Button>
         <Button variant="secondary" onClick={this.props.toggleModal}>
